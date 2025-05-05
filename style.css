@@ -2,10 +2,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Full viewport height for vertical centering */
+  height: 100vh; /* Full screen height for vertical centering */
 }
 
-/* Existing button styling */
+/* Button styling */
 .button {
   position: relative;
   text-decoration: none;
